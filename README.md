@@ -5,15 +5,19 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Pedro Henrique Santos de Jesus
+- Matrícula: 1529847
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+## LISTAGEM DE TÍTULOS
+![Listagem de Títulos](images/listagemtitulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+## CÁLCULO DE MÉDIAS
+![Listagem de Títulos](images/calculomedias.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+## RESUMO DE VERIFICAÇÕES (SOME E EVERY)
+![Listagem de Títulos](images/pagverificaçao.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+## PÁGINA COM O RESUMO
+![Listagem de Títulos](images/resumo.png)
